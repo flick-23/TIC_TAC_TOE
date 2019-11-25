@@ -1,2 +1,4 @@
 # TIC_TAC_TOE
-Tic Tac Toe programmed using C language
+Its a tic tac toe game built using C language.
+Its fun and easy to play
+Give it your best shott
